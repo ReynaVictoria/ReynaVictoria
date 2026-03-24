@@ -19,3 +19,7 @@ confirma los cambios locales
 
 GIT PUSH ORIGIN MASTER
 sube los cambios al repositorio remoto (origin) en la rama principal (master)
+
+GIT CHECKOUT -B FEATURE/NUEVA-CARACTERISTICA
+- git checkout: CREA rama
+- "-b" me TRASLADA a la nueva rama
