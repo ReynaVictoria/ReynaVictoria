@@ -12,7 +12,10 @@ GIT STATUS
 muestra los cambios
 
 GIT ADD
-guarda cambios en el repositorio LOCAL
+prepara los cambios
 
 GIT COMMIT -m "Comentario"
-confirma los cambios para todos
+confirma los cambios locales
+
+GIT PUSH ORIGIN MASTER
+sube los cambios al repositorio remoto (origin) en la rama principal (master)
