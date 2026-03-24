@@ -1,1 +1,18 @@
 Este es un archivo de texto
+
+usando los comandos de POWERSHELL cree un directorio con un archivo
+mkdir
+ni nombre.txt
+Uso cd para moverme
+
+
+me muevo a mi directorio raiz usando cd
+
+GIT STATUS
+muestra los cambios
+
+GIT ADD
+guarda cambios en el repositorio LOCAL
+
+GIT COMMIT -m "Comentario"
+confirma los cambios para todos
