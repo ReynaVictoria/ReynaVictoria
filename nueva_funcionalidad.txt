@@ -1,1 +1,2 @@
-informacion relevante de la nueva caracteristica    
+informacion relevante de la nueva caracteristica 
+hola   
